@@ -1,12 +1,12 @@
-# code_learner
-
 #include<iostream>
 #include<string>
 #include<stdlib.h>
 #include<windows.h>
 
+#
 void spell(std::string&user_input)
-{ std::cout << "You enter the Defense against Dark Arts class" << std::endl << std::endl;
+{
+    std::cout << "You enter the Defense against Dark Arts class" << std::endl << std::endl;
     while (true)
     {
         
